@@ -1,7 +1,7 @@
 # DSA-Solutions
 
 Welcome! 🚀
-This repository contains my solutions to various Data Structures & Algorithms (DSA) problems in multiple programming languages.
+This repository contains my solutions to various Data Structures & Algorithms (DSA) problems in C++.
 
 #📚 About
 I solve problems from platforms like LeetCode, Codeforces, GeeksforGeeks, and more.
