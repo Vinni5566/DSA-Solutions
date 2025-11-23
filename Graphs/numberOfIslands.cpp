@@ -1,3 +1,5 @@
+//Problem link: https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1
+
 #include <iostream>
 #include <vector>
 #include <queue>
